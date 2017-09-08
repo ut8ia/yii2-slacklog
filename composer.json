@@ -1,0 +1,24 @@
+{
+  "name": "ut8ia/yii2-slacklog",
+  "description": "yii2 slack logging",
+  "type": "library",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Eugene Anufriev",
+      "email": "eugene.anufriev@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "ut8ia\\slacklog\\": "/"
+    }
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": ">=2.0.0",
+    "yiisoft/yii2-httpclient": "^2.0.0"
+  }
+}
