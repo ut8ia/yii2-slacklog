@@ -2,7 +2,7 @@
   "name": "ut8ia/yii2-slacklog",
   "description": "yii2 slack logging",
   "type": "library",
-  "license": "GPL-3.0",
+  "license": "BSD",
   "authors": [
     {
       "name": "Eugene Anufriev",
